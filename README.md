@@ -1,9 +1,9 @@
 
 前面两篇文章分别介绍了 Android 组件化基础知识以及 Android 组件化过程 Application 的相关知识，在阅读本文之前可以先阅读下面两篇文章：
 
-- Android组件化基础
+- [Android组件化基础](https://mp.weixin.qq.com/s?__biz=MzU3NTA3MDU1OQ==&mid=2247484171&idx=1&sn=f6cc9203c36f9edc9a19986c66451fe0&chksm=fd298b3bca5e022d5afe72a422cf1386dafe112db3873339cd1906f6e9266d30b19da1f31730&token=710521150&lang=zh_CN#rd)
 
-- Android组件化之Application
+- [Android组件化之Application](https://mp.weixin.qq.com/s?__biz=MzU3NTA3MDU1OQ==&mid=2247484177&idx=1&sn=36039f0a013c583098fb2434637e8318&chksm=fd298b21ca5e023720fbb4155b6fe9a2b9600cceb5ae608c8d09cef4eec932fe283d38975f47&token=710521150&lang=zh_CN#rd)
 
 
 ARouter 是 albaba 团队开源的一个 Android App 组件化改造的一个框架，支持模块之间的路由、通信、拦截功能，相比原生跳转来说更能适应组件化开发，本文主要通过实例总结一下 Arouter 的常用功能，具体如下：
@@ -387,8 +387,7 @@ manage.getService();
 
 上述实现的测试效果如下图所示：
 
-
-
+![Android组件化之ARouter的使用](https://github.com/jzmanu/ComponentizationSamples/blob/master/arouter.gif?raw=true)
 
 ARouter 功能比较全面，使用起来也非常简单，上面的内容也是最常使用到的，如其他功能如拦截器、降级策略、转场动画、映射关系分组等用到直接参考官方文档实践即可。
 
