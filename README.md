@@ -1,3 +1,5 @@
+
+
 ### Android组件化之ARouter的使用
 
 > 原文发于公众号jzman-blog
@@ -392,7 +394,9 @@ manage.getService();
 
 ![Android组件化之ARouter的使用](https://github.com/jzmanu/ComponentizationSamples/blob/master/arouter.gif?raw=true)
 
-ARouter 功能比较全面，使用起来也非常简单，上面的内容也是最常使用到的，如其他功能如拦截器、降级策略、转场动画、映射关系分组等用到直接参考官方文档实践即可。
+ARouter 功能比较全面，使用起来也非常简单，上面的内容也是最常使用到的，如其他功能如拦截器、降级策略、转场动画、映射关系分组等用到直接参考官方文档实践即可。可在公众号回复关键字【加群】邀你进Android学习交流群。
+
+![零点小筑（jzman-blog）](https://camo.githubusercontent.com/26eec1b490584355784e93da3f16f9764b875bf5/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f323439343536392d663161653937386466393965313030372e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f3630302f666f726d61742f77656270)
 
 
 
