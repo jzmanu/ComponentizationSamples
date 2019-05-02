@@ -1,3 +1,6 @@
+### Android组件化之ARouter的使用
+
+> 原文发于公众号jzman-blog
 
 前面两篇文章分别介绍了 Android 组件化基础知识以及 Android 组件化过程 Application 的相关知识，在阅读本文之前可以先阅读下面两篇文章：
 
